@@ -1,9 +1,0 @@
-{
-  "name": "huohai-portfolio",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node scripts/build.mjs",
-    "test": "node scripts/test-cloudbase.mjs"
-  }
-}
