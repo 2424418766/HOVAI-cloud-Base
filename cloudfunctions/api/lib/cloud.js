@@ -1,4 +1,4 @@
-﻿const CLOUD_ENV = process.env.CLOUD_ENV || '';
+const CLOUD_ENV = process.env.CLOUD_ENV || '';
 
 let app = null;
 

@@ -1,4 +1,4 @@
-﻿function isHttp(event) {
+function isHttp(event) {
   return Boolean(event && (event.headers || event.httpMethod || event.requestContext || event.path));
 }
 

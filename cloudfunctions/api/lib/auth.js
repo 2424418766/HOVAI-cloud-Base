@@ -1,4 +1,4 @@
-﻿const crypto = require('crypto');
+const crypto = require('crypto');
 
 const COOKIE = 'hovai_session';
 const TTL = 60 * 60 * 24 * 7; // 7 days

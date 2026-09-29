@@ -1,4 +1,4 @@
-﻿import { access, readFile, stat } from 'node:fs/promises';
+import { access, readFile, stat } from 'node:fs/promises';
 const required = ['public/index.html','public/admin.html','public/admin.js','public/app.js','public/styles.css','public/data/site.json','cloudfunctions/api/index.js','cloudfunctions/api/package.json'];
 for (const f of required) await access(f);
 const data = JSON.parse(await readFile('public/data/site.json','utf8'));
