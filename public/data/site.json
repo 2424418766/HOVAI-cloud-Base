@@ -1,0 +1,164 @@
+{
+  "version": 1,
+  "site": {
+    "brand": "HOVAI",
+    "nameZh": "张活海",
+    "location": "SHENZHEN, CHINA",
+    "email": "757335402@qq.com",
+    "wechat": "eeTee_1",
+    "copyright": "© 2026 HOVAI ZHANG",
+    "cycleMs": 3000
+  },
+  "categories": [
+    {
+      "id": "still-life",
+      "number": "01",
+      "title": "Still Life",
+      "titleZh": "静物",
+      "cover": "/assets/still-hero.webp",
+      "mobileCover": "/assets/still-hero.webp",
+      "position": "54% 54%",
+      "mobilePosition": "58% 52%"
+    },
+    {
+      "id": "people-still-life",
+      "number": "02",
+      "title": "People & Still Life",
+      "titleZh": "人与静物",
+      "cover": "/assets/people-hero.webp",
+      "mobileCover": "/assets/people-hero.webp",
+      "position": "63% 48%",
+      "mobilePosition": "68% 50%"
+    },
+    {
+      "id": "fashion",
+      "number": "03",
+      "title": "Fashion",
+      "titleZh": "时装",
+      "cover": "/assets/fashion-hero.webp",
+      "mobileCover": "/assets/fashion-hero.webp",
+      "position": "54% 36%",
+      "mobilePosition": "54% 32%"
+    },
+    {
+      "id": "past-works",
+      "number": "04",
+      "title": "Past Works",
+      "titleZh": "更多案例",
+      "cover": "/assets/past-hero.webp",
+      "mobileCover": "/assets/past-hero.webp",
+      "position": "50% 45%",
+      "mobilePosition": "50% 42%"
+    }
+  ],
+  "projects": [
+    {
+      "id": "disk-pro-study",
+      "category": "still-life",
+      "title": "Transparent System",
+      "year": "2026",
+      "cover": "/assets/still-hero.webp",
+      "items": [
+        {"type":"image","src":"/assets/still-hero.webp","rotation":0},
+        {"type":"image","src":"/assets/still-01.webp","rotation":0},
+        {"type":"image","src":"/assets/still-02.webp","rotation":0},
+        {"type":"image","src":"/assets/still-03.webp","rotation":0}
+      ]
+    },
+    {
+      "id": "object-studies",
+      "category": "still-life",
+      "title": "Object Studies",
+      "year": "2026",
+      "cover": "/assets/still-04.webp",
+      "items": [
+        {"type":"image","src":"/assets/still-04.webp","rotation":0},
+        {"type":"image","src":"/assets/still-05.webp","rotation":0},
+        {"type":"image","src":"/assets/still-06.webp","rotation":0},
+        {"type":"image","src":"/assets/still-07.webp","rotation":0},
+        {"type":"image","src":"/assets/still-08.webp","rotation":0}
+      ]
+    },
+    {
+      "id": "working-state",
+      "category": "people-still-life",
+      "title": "Working State",
+      "year": "2026",
+      "cover": "/assets/people-hero.webp",
+      "items": [
+        {"type":"image","src":"/assets/people-hero.webp","rotation":0},
+        {"type":"image","src":"/assets/people-01.webp","rotation":0},
+        {"type":"image","src":"/assets/people-02.webp","rotation":0},
+        {"type":"image","src":"/assets/people-03.webp","rotation":0},
+        {"type":"image","src":"/assets/people-04.webp","rotation":0}
+      ]
+    },
+    {
+      "id": "desk-scenes",
+      "category": "people-still-life",
+      "title": "Desk Scenes",
+      "year": "2026",
+      "cover": "/assets/people-05.webp",
+      "items": [
+        {"type":"image","src":"/assets/people-05.webp","rotation":0},
+        {"type":"image","src":"/assets/people-06.webp","rotation":0},
+        {"type":"image","src":"/assets/people-07.webp","rotation":0},
+        {"type":"image","src":"/assets/people-08.webp","rotation":0},
+        {"type":"image","src":"/assets/people-09.webp","rotation":0},
+        {"type":"image","src":"/assets/people-10.webp","rotation":0}
+      ]
+    },
+    {
+      "id": "look-04",
+      "category": "fashion",
+      "title": "Look 04",
+      "year": "2022",
+      "cover": "/assets/fashion-hero.webp",
+      "items": [
+        {"type":"image","src":"/assets/fashion-hero.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-01.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-02.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-03.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-04.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-05.webp","rotation":0}
+      ]
+    },
+    {
+      "id": "editorial-study",
+      "category": "fashion",
+      "title": "Editorial Study",
+      "year": "2022",
+      "cover": "/assets/fashion-06.webp",
+      "items": [
+        {"type":"image","src":"/assets/fashion-06.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-07.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-08.webp","rotation":0},
+        {"type":"image","src":"/assets/fashion-09.webp","rotation":0}
+      ]
+    }
+  ],
+  "pastWorks": [
+    {"type":"image","src":"/assets/past-hero.webp"},
+    {"type":"image","src":"/assets/past-01.webp"},
+    {"type":"image","src":"/assets/past-02.webp"},
+    {"type":"image","src":"/assets/past-03.webp"},
+    {"type":"image","src":"/assets/past-04.webp"},
+    {"type":"image","src":"/assets/past-05.webp"},
+    {"type":"image","src":"/assets/past-06.webp"},
+    {"type":"image","src":"/assets/past-07.webp"},
+    {"type":"image","src":"/assets/past-08.webp"}
+  ],
+  "about": {
+    "kicker": "ABOUT 关于我",
+    "name": "HOVAI ZHANG",
+    "nameZh": "张活海",
+    "intro": "People, still life & feeling.",
+    "introZh": "人、静物、感受。",
+    "location": "Shenzhen, China",
+    "body": "Commercial and personal photography, moving between people, objects and the feelings that remain around them.",
+    "bodyZh": "商业与个人摄影，在人与静物之间工作，也保留那些难以被归类的感受。",
+    "images": ["/assets/about-01.webp","/assets/about-02.webp","/assets/about-03.webp","/assets/about-04.webp"],
+    "quote": "We follow instinct as we create. What seems accidental is simply what was always meant to find us.",
+    "quoteZh": "我们跟随这本能创作，看似是意外的产生，其实是我们命中注定的东西。"
+  }
+}
